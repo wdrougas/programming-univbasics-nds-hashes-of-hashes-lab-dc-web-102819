@@ -32,6 +32,8 @@
 
 def naming_system
   {
-    :Kingdom
+    label: "Kingdom" {
+      sub_category: 
+    }
  
 end
